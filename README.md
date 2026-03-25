@@ -1,6 +1,6 @@
 💼 Financial Analysis
 
-Welcome to Financial Analysis – a comprehensive SQL project designed to analyze the financial data of customers, branches, and transactions within a banking system. This project provides insightful queries to help understand customer behaviors, branch performances, and overall financial health.
+A comprehensive SQL project designed to analyze the financial data of customers, branches, and transactions within a banking system. This project provides insightful queries to help understand customer behaviors, branch performances, and overall financial health.
 
 ✤ Project Description
 
